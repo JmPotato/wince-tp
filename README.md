@@ -2,4 +2,4 @@
 
 _**Work In Progress**_
 
-An asynchronous Rust thread pool.
+An asynchronous Rust thread pool, inspired by [tikv/yatp](https://github.com/tikv/yatp).
